@@ -1,0 +1,48 @@
+.header img{
+    height: 80px;
+}
+.containerA{
+    padding-left: 7%;
+    padding-right: 7%;
+    background-color:rgb(255, 166, 0);
+}
+.headerH{
+    text-align: right;
+}
+.headerH nav{
+    /* background-color: rgb(224, 195, 195); */
+    line-height: 40px;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav Link{
+    text-decoration: none;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(20, 10, 10);
+    margin-right: 20px;
+    padding: 5px;
+    font-style: none;
+    font-size: 18px;
+}
+nav p{
+    font-size:15px;
+}
+nav a:hover{
+    /* background-color:#007bff; */
+    color: rgb(247, 242, 242);
+}
+.logo img{
+    height: 30px;
+    float: left;
+    margin-top:5px;
+
+}
+nav input{
+    /* margin-right: 10%; */
+    border-radius: 10px;
+    height: 30px;
+    padding-left: 20px;
+    width: 260px;
+}

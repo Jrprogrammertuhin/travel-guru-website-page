@@ -1,0 +1,51 @@
+.description{
+    float: left;
+    /* border: 1px solid orange; */
+    width:450px;
+    height: 320px;
+    margin-top: 25px;
+}
+.description h1{
+    margin-top:10px;
+}
+.description p{
+    margin-left: 2px;
+}
+.calender{
+    float: right;
+    width:400px;
+    height: 320px;
+    border: 1px solid black;
+    background:rgb(231, 230, 227);
+    margin-top: 25px;
+}
+.destination{
+    padding-left: 8%;
+    padding-right: 7%;
+}
+.dataPiker{
+    width:40%;
+    border-radius: 10px;
+}
+p{
+    margin-left:5%;
+    margin-top: 20px;
+}
+.origin{
+    width:90%;
+    margin-left:5%;
+    border-radius: 10px;
+}
+.destinationTo{
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    border-radius: 10px;
+}
+.btn{
+    width:90%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
